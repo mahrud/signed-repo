@@ -1,6 +1,6 @@
-tree 6f79ee213cc7a4c0e1ee58936d41a739aadc8a9b
-parent b67b197f66dddda578e40a4a0b29e5968d66b75b
-author Mahrud Sayrafi <mahrud@berkeley.edu> 1515087019 -0800
-committer Mahrud Sayrafi <mahrud@berkeley.edu> 1515148483 -0800
+tree 2a340f2ca8291af933ebf9dc4a610c92eaaf688e
+parent f2a63516f68ba9bb643f74ff6a90717586464b4d
+author Mahrud Sayrafi <mahrud@berkeley.edu> 1515478746 -0800
+committer Mahrud Sayrafi <mahrud@berkeley.edu> 1515478746 -0800
 
-Added a test
+Some test scripts
